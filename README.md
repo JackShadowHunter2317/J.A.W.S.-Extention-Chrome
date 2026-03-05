@@ -8,5 +8,5 @@ Is a extention that divides your Focus from the Hyper-dopamine, distracting, sed
 4) Stores the response
 5) Does the same thing done in the 3* parameter
 6) If everything is fine it will be let by the user to see it
-7) If not, it will be block
+7) If not, it will be block the site/resorce
 8) If the user wants to see it, every image will be blured
